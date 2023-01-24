@@ -6,13 +6,7 @@ const Profile = () => {
 
   return (
     <Layout>
-      <h1>Profile</h1>
-      {user && (
-        <>
-          <p>Your session:</p>
-          <pre>{JSON.stringify(user, null, 2)}</pre>
-        </>
-      )}
+    <iframe src="http://18.219.91.222:3000/" height="100%" width="100%" frameborder="0">Your browser doesnot support iframes<a href="http://18.219.91.222:3000/"> click here to view the page directly. </a></iframe>
     </Layout>
   )
 }
