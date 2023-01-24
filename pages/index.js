@@ -6,7 +6,7 @@ const Home = () => {
 
   return (
     <Layout>
-      <h1>Magic Example</h1>
+      <h1>Login</h1>
 
       <p>Steps to test this authentication example:</p>
 
@@ -22,17 +22,7 @@ const Home = () => {
         </li>
       </ol>
 
-      <p>
-        To learn more about Magic, visit their{' '}
-        <a
-          href="https://docs.magic.link/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          documentation
-        </a>
-        .
-      </p>
+     
 
       {user && (
         <>
