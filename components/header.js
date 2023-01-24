@@ -17,7 +17,7 @@ const Header = () => {
             <>
               <li>
                 <Link href="/profile">
-                  <a>Profile</a>
+                  <a>Platform</a>
                 </Link>
               </li>
               <li>
@@ -57,7 +57,7 @@ const Header = () => {
         }
         header {
           color: #fff;
-          background-color: #333;
+          background-color: #660099;
         }
       `}</style>
     </header>
