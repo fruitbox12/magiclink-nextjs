@@ -6,7 +6,7 @@ const Profile = () => {
 
   return (
     <Layout>
-    <iframe src="http://18.219.91.222:3000/" height="100%" width="100%" frameborder="0">Your browser doesnot support iframes<a href="http://18.219.91.222:3000/"> click here to view the page directly. </a></iframe>
+    <iframe src="https://aad4-45-50-98-105.ngrok.io/" height="100%" width="100%" frameborder="0">Your browser doesnot support iframes<a href="https://aad4-45-50-98-105.ngrok.io/"> click here to view the page directly. </a></iframe>
     </Layout>
   )
 }
